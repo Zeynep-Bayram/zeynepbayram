@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/zeynepbayram/__init__.py
+src/zeynepbayram/statistics.py
+src/zeynepbayram.egg-info/PKG-INFO
+src/zeynepbayram.egg-info/SOURCES.txt
+src/zeynepbayram.egg-info/dependency_links.txt
+src/zeynepbayram.egg-info/top_level.txt
+tests/test_statistics.py
