@@ -3,14 +3,14 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "boracanbula"
+name = "zeynepbayram"
 version = "0.0.1"
 authors = [
-    { name = "Bora Canbula", email = "bora.canbula@cbu.edu.tr" },
+    { name = "Zeynep Bayram", email = "zeeyneepbayram@gmail.com" },
 ]
 description = "A simple package for calculating statistics."
 readme = "README.md"
-keywords = ["canbula", "statistics"]
+keywords = ["zeynepbayram", "statistics"]
 requires-python = ">=3.6.0"
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -21,4 +21,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/canbula/boracanbula"
+Homepage = "https://github.com/Zeynep-Bayram/zeynepbayram"
